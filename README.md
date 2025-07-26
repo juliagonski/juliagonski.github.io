@@ -26,7 +26,7 @@
     flex: 1;                  /* Take up remaining space */
   }
   header img {
-    max-width: 120px;
+    max-width: 60px;
     height: auto;
     border-radius: 50%;
     margin-right: 2.5em;

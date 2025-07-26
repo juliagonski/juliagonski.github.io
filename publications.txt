@@ -1,15 +1,51 @@
-      <h2>Publications</h2>
-      <ul class="publications">
-        <li class="publication">
-          <strong>Title of Paper One</strong> <br>
-          <em>Journal Name</em>, 2023. <br>
-          <!-- Add optional summary or link -->
-          <span>Short summary or <a href="#">paper link</a>.</span>
-        </li>
-        <li class="publication">
-          <strong>Title of Paper Two</strong> <br>
-          <em>Journal Name</em>, 2022. <br>
-          <span>Short summary or <a href="#">paper link</a>.</span>
-        </li>
-        <!-- Add more publications here -->
-      </ul>
+<h2>Publications</h2>
+<ul class="publications">
+ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1 January 2025.
+
+<li class="publication">
+  <strong>Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
+  <em>IOP Machine Learning Science &amp; Technology (accepted)</em>, 2024. <br>
+  <span>
+    Authors: A. Yue, H. Jia, J. Gonski.<br>
+    <a href="https://arxiv.org/abs/2411.01118" target="_blank">arXiv:2411.01118</a>
+  </span>
+</li>
+<li class="publication">
+  <strong>Search for new physics in final states with semi-visible jets or anomalous signatures using the ATLAS detector</strong><br>
+  <em><a href="https://journals.aps.org/prd/abstract/10.1103/44zp-mh1q" target="_blank">Phys. Rev. D 112, 012021</a></em>, 2025.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 25 July 2025.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Search for displaced leptons in 13 TeV and 13.6 TeV pp collisions with the ATLAS detector</strong><br>
+  <em><a href="https://journals.aps.org/prd/abstract/10.1103/w8hh-xf24" target="_blank">Phys. Rev. D 112, 012016</a></em>, 2025.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 17 July 2025.<br>
+    <!-- arXiv: https://arxiv.org/abs/2410.16835 if you'd like to add -->
+  </span>
+</li>
+
+<li class="publication">
+  <strong>A Radiation-Hard 8-Channel 15-bit 40-MSPS ADC for the ATLAS Liquid Argon Calorimeter Readout</strong><br>
+  <em><a href="https://ieeexplore.ieee.org/abstract/document/11017335" target="_blank">IEEE Open Journal of the Solid-State Circuits Society 5 180-199</a></em>, 2025.<br>
+  <span>
+    Authors: R. Xu, J. Bán, S. Kalani, C.-K. Hsu, S. Ray, B. Kirby, G. Matos, J. Gonski, A. Smith, D. Williams, K. Kennedy, A. Kahn, M. Contreras-Cossio, L. Larson, M. Himmelsbach, D. Panchal, M. Unanian, X. Yang, N. Sun, J. Parsons, T. Andeen, P. Kinget.<br>
+    Published: 28 May 2025.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Semi-supervised permutation invariant particle-level anomaly detection</strong><br>
+  <em><a href="https://link.springer.com/article/10.1007/JHEP05(2025)116" target="_blank">JHEP 05 (2025) 116</a></em>, 2025.<br>
+  <span>
+    Authors: G. Matos, E. Busch, K. Park, J. Gonski.<br>
+    Published: 14 May 2025.
+  </span>
+</li>
+
+  <!-- Add more publications here -->
+</ul>

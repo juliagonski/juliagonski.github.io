@@ -1,7 +1,8 @@
       <h2>Contact</h2>
       <p>
         <!-- Add your contact info here. For anti-spam, you can encode your email like: name [at] domain [dot] edu -->
-        Email: your.email [at] domain [dot] edu <br>
-        Office: Room 101, Physics Building<br>
+        Email: jgonski [at] slac [dot] stanford [dot] edu <br>
+        Mailing: Julia Gonski MS 95, SLAC National Accelerator Laboratory, 2575 Sand Hill Rd, Menlo Park CA 94025
+        Office: B289, B84 <br>
         <!-- You can also add a contact form (requires additional setup) -->
       </p>
