@@ -1,0 +1,7 @@
+      <h2>Contact</h2>
+      <p>
+        <!-- Add your contact info here. For anti-spam, you can encode your email like: name [at] domain [dot] edu -->
+        Email: your.email [at] domain [dot] edu <br>
+        Office: Room 101, Physics Building<br>
+        <!-- You can also add a contact form (requires additional setup) -->
+      </p>

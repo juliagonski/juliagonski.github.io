@@ -1,0 +1,7 @@
+      <h2>About Me</h2>
+      <img src="YOUR_PHOTO.jpg" alt="Your Name headshot" style="max-width:120px; float:right; margin-left:1em; border-radius:50%;">
+      <p>
+        <!-- Write your bio here -->
+        Hi! I am [Your Name], a [position, e.g., physicist] at [your institution]. My research explores [your main research topics]. I'm passionate about [other interests or outreach].
+      </p>
+      <div style="clear:both"></div>

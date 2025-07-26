@@ -1,0 +1,13 @@
+      <h2>Research</h2>
+      <p>
+        <!-- Describe your research topics -->
+        My research focuses on high-energy physics, particularly at the Large Hadron Collider (LHC).
+      </p>
+      <div>
+        <!-- Add images related to your research -->
+        <img src="lhc.jpg" alt="LHC" style="max-width:300px; margin:1em 0; width:100%;">
+        <p>
+          <!-- Short description of image -->
+          The ATLAS detector at CERN's LHC, where we search for new particles and phenomena.
+        </p>
+      </div>research

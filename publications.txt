@@ -1,0 +1,15 @@
+      <h2>Publications</h2>
+      <ul class="publications">
+        <li class="publication">
+          <strong>Title of Paper One</strong> <br>
+          <em>Journal Name</em>, 2023. <br>
+          <!-- Add optional summary or link -->
+          <span>Short summary or <a href="#">paper link</a>.</span>
+        </li>
+        <li class="publication">
+          <strong>Title of Paper Two</strong> <br>
+          <em>Journal Name</em>, 2022. <br>
+          <span>Short summary or <a href="#">paper link</a>.</span>
+        </li>
+        <!-- Add more publications here -->
+      </ul>

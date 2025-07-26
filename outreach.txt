@@ -1,0 +1,6 @@
+      <h2>Featured & Media</h2>
+      <ul>
+        <li><a href="https://your-article-link.com" target="_blank">"Title of Public Article"</a> (Publication, 2022)</li>
+        <li><a href="https://youtube.com/your-talk" target="_blank">Conference Talk Video</a></li>
+        <!-- Add more outreach/media links here -->
+      </ul>
