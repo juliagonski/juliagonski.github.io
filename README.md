@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Julia Gonski</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -14,16 +12,42 @@
       background: #8C1515; /* Stanford red */
       color: #fff;
       padding: 2rem 0 1rem 0;
+    /* Updated: Use flex to place h1 left and image right */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 0 auto;
+    }
+  header h1 {
+    margin: 0 0 0 1.5em;
+    font-size: 2.7em;         /* Larger font */
+    text-align: left;
+    flex: 1;                  /* Take up remaining space */
+  }
+  header img {
+    max-width: 120px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 2.5em;
+    box-shadow: 0 2px 8px rgba(0,0,0,.1);
+  }
+  @media (max-width: 650px) {
+    header {
+      flex-direction: column;
       text-align: center;
+      padding: 1em 0;
+    }
+    header h1 {
+      margin: 0.5em 0 0.2em 0;
+      text-align: center;
+      font-size: 2em;
     }
     header img {
-      max-width: 130px;
-      border-radius: 50%;
-      margin-bottom: 1rem;
+      margin: 0 auto 1em auto;
+      display: block;
     }
-    h1 {
-      margin: 0.2em 0 0.1em 0;
-    }
+  }
     nav {
       background: #8C1515; /* Stanford red */
       display: flex;
@@ -87,9 +111,9 @@
   <!-- ===== Header & Landing Page ===== -->
   <header>
     <h1>Julia Gonski</h1>
-    <p>Particle physics  | Machine learning | microelectronics</p>
+    <img src="SLAC_LogoSD.svg.png" alt="Your Name photo">
   </header>
-  
+  <p style="text-align:center; margin-top:-1.em;"> Particle physics  | Machine learning | Microelectronics </p>
   <!-- ===== Navigation Tabs ===== -->
   <nav>
     <button class="active" onclick="showTab('about')">About Me</button>

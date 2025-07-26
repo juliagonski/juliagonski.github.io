@@ -1,5 +1,5 @@
       <h2>About Me</h2>
-      <img src="headshot.jpg" alt="Your Name headshot" style="max-width:120px; float:right; margin-left:1em; border-radius:50%;">
+      <img src="headshot.jpg" alt="Your Name headshot" style="max-width:200px; float:right; margin-left:1em; border-radius:50%;">
       <p>
         <!-- Write your bio here -->
 I'm a Panofsky Fellow at SLAC and a high energy experimental physicist working on the ATLAS Experiment at CERN's Large Hadron Collider. My background spans Rutgers (B.S.), Harvard (Ph.D.), and Columbia (postdoc), and my work lives at the intersection of particle physics, machine learning, and novel hardware platforms.
