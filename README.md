@@ -32,7 +32,7 @@
     margin-right: 2.5em;
     box-shadow: 0 2px 8px rgba(0,0,0,.1);
   }
-  @media (max-width: 650px) {
+  @media (max-width: 200px) {
     header {
       flex-direction: column;
       text-align: center;
@@ -72,7 +72,6 @@
       margin: 32px auto;
       background: #fff;
       padding: 2em;
-      border-radius: 0.5em;
       box-shadow: 0 2px 10px rgba(0,0,0,0.07);
       min-height: 350px;
     }
