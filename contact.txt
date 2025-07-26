@@ -2,7 +2,7 @@
       <p>
         <!-- Add your contact info here. For anti-spam, you can encode your email like: name [at] domain [dot] edu -->
         Email: jgonski [at] slac [dot] stanford [dot] edu <br>
-        Mailing: Julia Gonski MS 95, SLAC National Accelerator Laboratory, 2575 Sand Hill Rd, Menlo Park CA 94025
+        Mailing: Julia Gonski MS 95, SLAC National Accelerator Laboratory, 2575 Sand Hill Rd, Menlo Park CA 94025 <br>
         Office: B289, B84 <br>
         <!-- You can also add a contact form (requires additional setup) -->
       </p>

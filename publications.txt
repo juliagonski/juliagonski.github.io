@@ -1,6 +1,6 @@
 <h2>Publications</h2>
 <ul class="publications">
-ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1 January 2025.
+ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1 January 2025. <br>
 
 <li class="publication">
   <strong>Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
@@ -44,6 +44,141 @@ ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1
   <span>
     Authors: G. Matos, E. Busch, K. Park, J. Gonski.<br>
     Published: 14 May 2025.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Analysis of Hardware Synthesis Strategies for Machine Learning in Collider Trigger and Data Acquisition</strong><br>
+  <em>arXiv: <a href="https://arxiv.org/abs/2411.11678" target="_blank">2411.11678</a></em>, 2024.<br>
+  <span>
+    Authors: H. Jia, A. Dave, J. Gonski, R. Herbst.<br>
+    Published: 18 Nov 2024.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Embedded FPGA developments in 130 nm and 28 nm CMOS for machine learning in particle detector readout</strong><br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/1748-0221/19/08/P08023" target="_blank">Journal of Instrumentation 19 P08023</a></em>, 2024.<br>
+  <span>
+    Authors: J. Gonski et al.<br>
+    Published: 28 August 2024.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Anomaly detection search for new resonances decaying into a Higgs boson and a generic new particle X in hadronic final states using √s = 13 TeV pp collisions with the ATLAS detector</strong><br>
+  <em><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.052009" target="_blank">Phys. Rev. D 108 052009</a></em>, 2023.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 18 September 2023.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Search in diphoton and dielectron final states for displaced production of Higgs or Z bosons with the ATLAS detector in √s=13 TeV pp collisions</strong><br>
+  <em><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.012012" target="_blank">Phys. Rev. D 108, 012012</a></em>, 2023.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 19 July 2023.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Detector R&amp;D needs for the next generation e<sup>+</sup>e<sup>-</sup> collider (white paper)</strong><br>
+  <em>arXiv: <a href="https://arxiv.org/abs/2306.13567" target="_blank">2306.13567</a></em>, 2023.<br>
+  <span>
+    Authors: A. Apresyan, J. Gonski et al.<br>
+    Published: 26 June 2023.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>High-dimensional Anomaly Detection with Radiative Return in e<sup>+</sup>e<sup>-</sup> Collisions</strong><br>
+  <em><a href="https://link.springer.com/article/10.1007/JHEP04(2022)156" target="_blank">JHEP 04 (2022) 156</a></em>, 2022.<br>
+  <span>
+    Authors: J. Gonski, J. Lai, B. Nachman, I. Ochoa.<br>
+    Published: 26 Apr 2022.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Anomalous Jet Identification Via Sequence Modeling</strong><br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/1748-0221/16/08/P08012" target="_blank">JINST 16 P08012</a></em>, 2021.<br>
+  <span>
+    Authors: A. Kahn, J. Gonski, I. Ochoa, D. Williams, G. Brooijmans.<br>
+    Published: 3 Aug 2021.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Search for displaced photons produced in exotic decays of the Higgs boson using 13 TeV pp collisions with the ATLAS detector</strong><br>
+  <em><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.108.032016" target="_blank">Phys. Rev. D 108 032016</a></em>, 2023.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 21 Aug 2023.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Report of the 2021 U.S. Community Study on the Future of Particle Physics (Snowmass 2021) Summary Chapter (white paper)</strong><br>
+  <em>arXiv: <a href="https://arxiv.org/abs/2301.06581" target="_blank">2301.06581</a></em>, 2023.<br>
+  <span>
+    Authors: J. Butler, J. Gonski et al.<br>
+    Published: 16 Jan 2023.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Development of the ATLAS Liquid Argon Calorimeter Readout Electronics and Machine Learning for the HL-LHC (CALOR2022 conference proceedings)</strong><br>
+  <em><a href="https://www.mdpi.com/2410-390X/6/3/28" target="_blank">MDPI Instruments 2022, 6(3), 28 (selected as issue cover)</a></em>, 2022.<br>
+  <span>
+    Authors: J. Gonski.<br>
+    Published: 26 August 2022.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Highlights from Long-Lived Particle Searches at ATLAS (Moriond QCD conference proceedings)</strong><br>
+  <em>arXiv: <a href="https://arxiv.org/abs/2205.07669" target="_blank">2205.07669</a></em>, 2022.<br>
+  <span>
+    Authors: J. Gonski.<br>
+    Published: 17 May 2022.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Readout for Calorimetry at Future Colliders: A Snowmass 2021 White Paper</strong><br>
+  <em>arXiv: <a href="https://arxiv.org/abs/2204.00098" target="_blank">2204.00098</a></em>, 2022.<br>
+  <span>
+    Authors: T. Andeen, J. Gonski, J. Hirschauer, J. Hoff, G. Matos, J. Parsons.<br>
+    Published: 31 Mar 2022.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>The LHC Olympics 2020: A Community Challenge for Anomaly Detection in High Energy Physics</strong><br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/1361-6633/ac36b9" target="_blank">Rep. Prog. Phys. 84 124201</a></em>, 2021.<br>
+  <span>
+    Authors: G. Kasieczka, J. Gonski et al.<br>
+    Published: 7 Dec 2021.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Searches for electroweak production of supersymmetric particles with compressed mass spectra in √s = 13 TeV pp collisions with the ATLAS detector</strong><br>
+  <em><a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.052005" target="_blank">Phys. Rev. D 101 (2020) 5</a></em>, 2020.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 11 Mar 2020.
+  </span>
+</li>
+
+<li class="publication">
+  <strong>Search for top-squark pair production in final states with one lepton, jets, and missing transverse momentum using 36 fb<sup>−1</sup> of √s = 13 TeV pp collision data with the ATLAS detector</strong><br>
+  <em><a href="https://link.springer.com/article/10.1007/JHEP06(2018)108" target="_blank">JHEP 06 (2018) 108</a></em>, 2018.<br>
+  <span>
+    Authors: ATLAS Collaboration.<br>
+    Published: 21 June 2018.
   </span>
 </li>
 
