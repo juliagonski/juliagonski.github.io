@@ -86,7 +86,6 @@
 <body>
   <!-- ===== Header & Landing Page ===== -->
   <header>
-    <img src="headshot.jpg" alt="Your Name photo">
     <h1>Julia Gonski</h1>
     <p>Particle physics  | Machine learning | microelectronics</p>
   </header>
