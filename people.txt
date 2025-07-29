@@ -2,18 +2,33 @@
       <div class="people-list">
         <!-- Example person -->
         <div class="person">
-          <img src="person1.jpg" alt="Person 1">
-          <strong>Dr. Collaborator One</strong>
+          <img src="sagar.jpg" alt="Sagar Addepalli">
+          <strong>Sagar Addepalli</strong>
           <p>
-            Short bio or research interests.
+            Postdoc
           </p>
         </div>
         <div class="person">
-          <img src="person2.jpg" alt="Person 2">
-          <strong>Ms. Student A</strong>
+          <img src="person2.jpg" alt="Qibin Liu">
+          <strong>Qibin Liu</strong>
           <p>
-            PhD Student. Focus: Data analysis.
+            Postdoc
           </p>
         </div>
+        <div class="person">
+          <img src="kenny.jpg" alt="Kenny Jia">
+          <strong>Haoyi (Kenny) Jia</strong>
+          <p>
+            PhD student, Stanford University
+          </p>
+        </div>
+        <div class="person">
+          <img src="alex.jpg" alt="Alex Yue">
+          <strong>Alexander Yue</strong>
+          <p>
+            Undergraduate, Stanford University
+          </p>
+        </div>
+
         <!-- Add more people as needed -->
       </div>

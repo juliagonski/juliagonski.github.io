@@ -1,6 +1,7 @@
       <h2>Featured & Media</h2>
       <ul>
-        <li><a href="https://your-article-link.com" target="_blank">"Title of Public Article"</a> (Publication, 2022)</li>
-        <li><a href="https://youtube.com/your-talk" target="_blank">Conference Talk Video</a></li>
+        <li><a href="https://atlas.cern/Updates/Feature/Machine-Learning" target="_blank">"Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector"</a> (June 2024)</li>
+        <li><a href="https://www.youtube.com/watch?v=VY6d353lfmA" target="_blank">SLAC Public Lecture | Expecting the Unexpected with AI at Particle Colliders</a>(December 2024)</li>
+        <li><a href="https://www.youtube.com/watch?v=AMbFljzc21o" target="_blank">Caltech Physics Colloquium | Colliders for the Future of High Energy Physics</a>(November 2023)</li>
         <!-- Add more outreach/media links here -->
       </ul>

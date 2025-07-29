@@ -1,13 +1,13 @@
 <h2>Publications</h2>
 <ul class="publications">
 ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1 January 2025. <br>
-
+<br>
 <li class="publication">
   <strong>Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
-  <em>IOP Machine Learning Science &amp; Technology (accepted)</em>, 2024. <br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/2632-2153/adf0c0" target="_blank">Mach. Learn.: Sci. Technol. 6 035017</a></em>, 2025.<br>
   <span>
     Authors: A. Yue, H. Jia, J. Gonski.<br>
-    <a href="https://arxiv.org/abs/2411.01118" target="_blank">arXiv:2411.01118</a>
+    Published: 29 July 2025.
   </span>
 </li>
 <li class="publication">
