@@ -9,7 +9,7 @@
         Something about ATLAS at the LHC.
     </p>
   </div>
-  <img src="atlas.jpg" alt="atlas" class="research-intro-img">
+  <img src="atlas.jpg" alt="atlas" class="research-intro-img" "width:150px; height:auto;">
 </div>
 
 <section class="research-area">
@@ -22,7 +22,7 @@
          Motivations: unusual dark sector, long-lived particles. Leveraging the latest in ML with areas of focus in anomaly detection, foundation models. 
         </p>
       </div>
-      <img src="ml_physics.jpg" alt="Machine learning for physics visual" class="research-img">
+      <img src="ml_physics.jpg" alt="Machine learning for physics visual" class="research-img" "width:140px; height:auto;">
     </div>
   </div>
 
@@ -35,7 +35,7 @@
             TODO 
         </p>
       </div>
-      <img src="anomtrig.png" alt="anomtrig" class="research-img">
+      <img src="anomtrig.png" alt="anomtrig" class="research-img" "width:140px; height:auto;">
     </div>
   </div>
 
@@ -48,7 +48,7 @@
             At-source ("edge") deployment of AI/ML can address the challenges of future ultra-high data rate experiments, but this requires novel solutions in microelectronics that can deliver reconfigurable digital logic within stringent latency and power constraints. In this aim, we are developing embedded FPGA (eFPGA) technology for HEP applications. eFPGAs offer reconfigurable logic blocks that can be integrated directly onto ASICs, combining the benefits of FPGAs with the the flexibility and processing power required for on-detector implementation. In collaboration with engineers in the SLAC Technology Innovation Directorate (TID), my work explores eFPGA applications in advanced subsystems for future experiments such as FCC-ee, including drift chambers and dual-readout calorimeters. These efforts aim to enable fast and intelligent signal processing capable of keeping pace with rapidly evolving experimental demands for collider physics and beyond.
         </p>
       </div>
-      <img src="efpga.png" alt="efpga" class="research-img">
+      <img src="efpga.png" alt="efpga" class="research-img" "width:140px; height:auto;">
     </div>
   </div>
 </section>
