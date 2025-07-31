@@ -3,7 +3,7 @@
       <p>
         <!-- Write your bio here -->
 I'm a Panofsky Fellow at SLAC and a high energy experimental physicist working on the ATLAS Experiment at CERN's Large Hadron Collider. My background spans Rutgers (B.S.), Harvard (Ph.D.), and Columbia (postdoc), and my work lives at the intersection of particle physics, machine learning, and novel hardware platforms. <br>
-
+<br>
 My research group focuses on building intelligent data acquisition pipelines to search for exotic new physics, with a particular focus on anomaly detection and unsupervised ML. We develop and deploy fast, efficient algorithms using advanced silicon microelectronics, targeting real-time and edge inference to manage the extreme Tb/s data rate. Beyond the LHC, we consider applications of these technologies across next-generation scientific infrastructure, from future colliders to quantum networks.
       </p>
       <div style="clear:both"></div>

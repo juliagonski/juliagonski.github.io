@@ -1,17 +1,98 @@
-<!--      
-<h2>Research</h2>
-      <p>
-        <!-- Describe your research topics -->
-        My research focuses on high-energy physics, particularly at the Large Hadron Collider (LHC).
-      </p>
-      <div>
-        <!-- Add images related to your research -->
-        <img src="lhc.jpg" alt="LHC" style="max-width:300px; margin:1em 0; width:100%;">
-        <p>
-          <!-- Short description of image -->
-          The ATLAS detector at CERN's LHC, where we search for new particles and phenomena.
-        </p>
-      </div>research
---> 
+<!-- Research Tab Content Template -->
 
-TBD
+
+<!-- Feature intro section for the Research tab -->
+<div class="research-intro-flex">
+  <div class="research-intro-text">
+    <h2></h2>
+    <p>
+        Something about ATLAS at the LHC.
+    </p>
+  </div>
+  <img src="atlas.jpg" alt="atlas" class="research-intro-img">
+</div>
+
+<section class="research-area">
+  <!-- Research Area 1 -->
+  <div class="research-block">
+    <h3>Searches for Exotic New Physics with Machine Learning</h3>
+    <div class="research-flex">
+      <div class="research-text">
+        <p>
+         Motivations: unusual dark sector, long-lived particles. Leveraging the latest in ML with areas of focus in anomaly detection, foundation models. 
+        </p>
+      </div>
+      <img src="ml_physics.jpg" alt="Machine learning for physics visual" class="research-img">
+    </div>
+  </div>
+
+  <!-- Research Area 2 -->
+  <div class="research-block">
+    <h3>Real-Time Anomaly Detection</h3>
+    <div class="research-flex">
+      <div class="research-text">
+        <p>
+            TODO 
+        </p>
+      </div>
+      <img src="anomtrig.png" alt="anomtrig" class="research-img">
+    </div>
+  </div>
+
+  <!-- Research Area 3 -->
+  <div class="research-block">
+    <h3>Novel Hardware Platforms for Ultra-Fast AI</h3>
+    <div class="research-flex">
+      <div class="research-text">
+        <p>
+            At-source ("edge") deployment of AI/ML can address the challenges of future ultra-high data rate experiments, but this requires novel solutions in microelectronics that can deliver reconfigurable digital logic within stringent latency and power constraints. In this aim, we are developing embedded FPGA (eFPGA) technology for HEP applications. eFPGAs offer reconfigurable logic blocks that can be integrated directly onto ASICs, combining the benefits of FPGAs with the the flexibility and processing power required for on-detector implementation. In collaboration with engineers in the SLAC Technology Innovation Directorate (TID), my work explores eFPGA applications in advanced subsystems for future experiments such as FCC-ee, including drift chambers and dual-readout calorimeters. These efforts aim to enable fast and intelligent signal processing capable of keeping pace with rapidly evolving experimental demands for collider physics and beyond.
+        </p>
+      </div>
+      <img src="efpga.png" alt="efpga" class="research-img">
+    </div>
+  </div>
+</section>
+
+<!-- Optional: Add more sections by copying the research-block structure -->
+
+<style>
+.research-area {
+  width: 100%;
+}
+.research-block {
+  margin-bottom: 2.5em;
+}
+.research-flex {
+  display: flex;
+  align-items: flex-start;
+  gap: 2em;
+  margin-top: 1em;
+}
+.research-block h3 {
+  margin-bottom: 0.3em;
+  font-size: 1.3em;
+  color: #1453c1; /* subtle modern blue, change as you like */
+}
+.research-text {
+  flex: 1;
+  font-size: 1.05em;
+  color: #222;
+}
+.research-img {
+  width: 180px;
+  max-width: 40vw;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.11);
+  object-fit: cover;
+}
+@media (max-width: 700px) {
+  .research-flex {
+    flex-direction: column;
+    gap: 1em;
+  }
+  .research-img {
+    width: 100%;
+    max-width: 90vw;
+  }
+}
+</style>
