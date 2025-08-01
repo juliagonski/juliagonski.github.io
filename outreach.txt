@@ -1,4 +1,4 @@
-<h2>Featured & Media</h2>
+<h2>Features & Media</h2>
 
 <!-- Outreach and Features Section -->
 <div class="features-table">
