@@ -44,7 +44,7 @@
 
   <!-- Research Area 3 -->
   <div class="research-block">
-    <h3>Novel Hardware Platforms for Ultra-Fast AI</h3>
+    <h3>Novel Hardware Platforms for Edge AI</h3>
     <div class="research-flex">
       <div class="research-text">
         <p>
