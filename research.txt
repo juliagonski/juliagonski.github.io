@@ -6,10 +6,10 @@
   <div class="research-intro-text">
     <h2></h2>
     <p>
-        Something about ATLAS at the LHC.
+        My group pursues the application of the latest in AI/ML techniques to challenges of data-taking and physics analyses for the ATLAS experiment at the Large Hadron Collider, hosted at the CERN laboratory in Geneva, Switzerland. We are also involved in R&D studies as well as strategic planning for next-generation future colliders, such as the proposed Future Circular Collider at CERN.
     </p>
   </div>
-  <img src="atlas.jpg" alt="atlas" class="research-intro-img" "width:150px; height:auto;">
+  <img src="atlas.jpg" alt="atlas" class="research-intro-img" style="width:45%;">
 </div>
 
 <section class="research-area">
@@ -19,10 +19,10 @@
     <div class="research-flex">
       <div class="research-text">
         <p>
-         Motivations: unusual dark sector, long-lived particles. Leveraging the latest in ML with areas of focus in anomaly detection, foundation models. 
+         Our physics interest lie with well-motivated BSM extensions that may be undercovered at the LHC experiments due to analysis-related challenges, such as complex dark sectors or long-lived particles. We respond to these challenges by developing novel ML approaches for analysis design, focusing on anomaly detection, transformers, foundation models, and more. 
         </p>
       </div>
-      <img src="ml_physics.jpg" alt="Machine learning for physics visual" class="research-img" "width:140px; height:auto;">
+      <img src="ml_physics.jpg" alt="Machine learning for physics visual" class="research-img" style="width:33%;">
     </div>
   </div>
 
@@ -32,10 +32,10 @@
     <div class="research-flex">
       <div class="research-text">
         <p>
-            TODO 
+            The trigger system at ATLAS is responsible for filtering the 40 MHz LHC event rate down to a rate that can be stored to disk, making it closely connected to the final dataset and thus the physics that can be analyzed offline. Our group is leading the effort to introduce real-time anomaly detection algorithms to the ATLAS trigger, with the first implementation currently running in 2025 data-taking. The events collected by this trigger will probe a phase space below existing trigger thresholds and thus never before seen in the LHC experiments, opening up novel discovery potential for new physics.
         </p>
       </div>
-      <img src="anomtrig.png" alt="anomtrig" class="research-img" "width:140px; height:auto;">
+      <img src="anomtrig.png" alt="anomtrig" class="research-img" style="width:33%;">
     </div>
   </div>
 
@@ -45,10 +45,10 @@
     <div class="research-flex">
       <div class="research-text">
         <p>
-            At-source ("edge") deployment of AI/ML can address the challenges of future ultra-high data rate experiments, but this requires novel solutions in microelectronics that can deliver reconfigurable digital logic within stringent latency and power constraints. In this aim, we are developing embedded FPGA (eFPGA) technology for HEP applications. eFPGAs offer reconfigurable logic blocks that can be integrated directly onto ASICs, combining the benefits of FPGAs with the the flexibility and processing power required for on-detector implementation. In collaboration with engineers in the SLAC Technology Innovation Directorate (TID), my work explores eFPGA applications in advanced subsystems for future experiments such as FCC-ee, including drift chambers and dual-readout calorimeters. These efforts aim to enable fast and intelligent signal processing capable of keeping pace with rapidly evolving experimental demands for collider physics and beyond.
+            At-source ("edge") deployment of AI/ML can address the challenges of future ultra-high data rate experiments, but this requires novel solutions in microelectronics that can deliver reconfigurable digital logic within stringent latency and power constraints. In this aim, we are developing embedded FPGA (eFPGA) technology for HEP applications. eFPGAs offer reconfigurable logic blocks that can be integrated directly onto ASICs, combining the benefits of FPGAs with the the flexibility and processing power required for on-detector implementation. In collaboration with engineers in the SLAC Technology Innovation Directorate (TID), my work explores eFPGA applications in advanced subsystems for future experiments such as FCC-ee, including drift chambers and dual-readout calorimeters, as well as for applications beyond HEP such as photon or quantum information science. 
         </p>
       </div>
-      <img src="efpga.png" alt="efpga" class="research-img" "width:140px; height:auto;">
+      <img src="efpga.png" alt="efpga" class="research-img" style="width:33%;">
     </div>
   </div>
 </section>
