@@ -1,7 +1,130 @@
-      <h2>Featured & Media</h2>
-      <ul>
-        <li><a href="https://atlas.cern/Updates/Feature/Machine-Learning" target="_blank">"Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector"</a> (June 2024)</li>
-        <li><a href="https://www.youtube.com/watch?v=VY6d353lfmA" target="_blank">SLAC Public Lecture | Expecting the Unexpected with AI at Particle Colliders</a>(December 2024)</li>
-        <li><a href="https://www.youtube.com/watch?v=AMbFljzc21o" target="_blank">Caltech Physics Colloquium | Colliders for the Future of High Energy Physics</a>(November 2023)</li>
-        <!-- Add more outreach/media links here -->
-      </ul>
+<h2>Featured & Media</h2>
+<ul>
+  <li><a href="https://atlas.cern/Updates/Feature/Machine-Learning" target="_blank">"Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector"</a> (June 2024)</li>
+  <li><a href="https://www.youtube.com/watch?v=VY6d353lfmA" target="_blank">SLAC Public Lecture | Expecting the Unexpected with AI at Particle Colliders</a>(December 2024)</li>
+  <li><a href="https://www.youtube.com/watch?v=AMbFljzc21o" target="_blank">Caltech Physics Colloquium | Colliders for the Future of High Energy Physics</a>(November 2023)</li>
+  <!-- Add more outreach/media links here -->
+</ul>
+
+<!-- Outreach and Features Section -->
+<div class="features-table">
+
+  <div class="feature-row">
+    <img src="slac_public.png" alt="Feature 1" class="feature-thumb">
+    <div class="feature-content">
+      <a href="https://events.stanford.edu/event/slac-on-tap-the-fundamental-universe-looking-for-zebras-and-the-worlds-largest-demolition-derby" target="_blank" class="feature-title">
+        SLAC On Tap | The Fundamental Universe, Looking for Zebras, and the World’s Largest Demolition Derby
+      </a>
+      <span class="feature-desc">
+        (May 2025)
+      </span>
+    </div>
+  </div>
+
+  <div class="feature-row">
+    <img src="slac_public.png" alt="Feature 1" class="feature-thumb">
+    <div class="feature-content">
+      <a href="https://www.youtube.com/watch?v=VY6d353lfmA" target="_blank" class="feature-title">
+        SLAC Public Lecture | Expecting the Unexpected with AI at Particle Colliders
+      </a>
+      <span class="feature-desc">
+        (December 2024)
+      </span>
+    </div>
+  </div>
+
+  <div class="feature-row">
+    <img src="ml_physics.jpg" alt="Talk thumbnail" class="feature-thumb">
+    <div class="feature-content">
+      <a href="https://atlas.cern/Updates/Feature/Machine-Learning" target="_blank" class="feature-title">
+        "Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector"
+      </a>
+      <span class="feature-desc">
+        (June 2024)
+      </span>
+    </div>
+  </div>
+
+  <div class="feature-row">
+    <img src="caltech.png" alt="Talk thumbnail" class="feature-thumb">
+    <div class="feature-content">
+      <a href="https://www.youtube.com/watch?v=AMbFljzc21o" target="_blank" class="feature-title">
+            Caltech Physics Colloquium | Colliders for the Future of High Energy Physics    
+      </a>
+      <span class="feature-desc">
+        (November 2023)
+      </span>
+    </div>
+  </div>
+
+  <!-- Add more rows as needed -->
+</div>
+
+<style>
+.features-table {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6em;
+  width: 100%;
+  margin: 2em 0;
+}
+.feature-row {
+  display: flex;
+  align-items: center;
+  background: #f8fafd;
+  border-radius: 9px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+  padding: 1.1em 1.5em;
+  gap: 1.2em;
+  transition: box-shadow 0.2s;
+}
+.feature-row:hover {
+  box-shadow: 0 4px 24px rgba(30,75,200,0.11);
+}
+.feature-thumb {
+  width: 88px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 6px;
+  flex-shrink: 0;
+  background: #e5e7eb;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+}
+.feature-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.feature-title {
+  font-size: 1.13em;
+  font-weight: 600;
+  color: #175dc0;
+  text-decoration: none;
+  margin-bottom: 0.12em;
+  transition: color 0.18s;
+}
+.feature-title:hover {
+  color: #00397a;
+  text-decoration: underline;
+}
+.feature-desc {
+  color: #333;
+  font-size: 0.99em;
+}
+@media (max-width: 600px) {
+  .feature-row {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 1em;
+    gap: 0.7em;
+  }
+  .feature-thumb {
+    width: 96%;
+    height: 42vw;
+    max-height: 130px;
+    margin-bottom: 0.3em;
+  }
+}
+</style>
+
+
