@@ -1,22 +1,16 @@
 <h2>Featured & Media</h2>
-<ul>
-  <li><a href="https://atlas.cern/Updates/Feature/Machine-Learning" target="_blank">"Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector"</a> (June 2024)</li>
-  <li><a href="https://www.youtube.com/watch?v=VY6d353lfmA" target="_blank">SLAC Public Lecture | Expecting the Unexpected with AI at Particle Colliders</a>(December 2024)</li>
-  <li><a href="https://www.youtube.com/watch?v=AMbFljzc21o" target="_blank">Caltech Physics Colloquium | Colliders for the Future of High Energy Physics</a>(November 2023)</li>
-  <!-- Add more outreach/media links here -->
-</ul>
 
 <!-- Outreach and Features Section -->
 <div class="features-table">
 
   <div class="feature-row">
-    <img src="slac_public.png" alt="Feature 1" class="feature-thumb">
+    <img src="slacontap.png" alt="Feature 1" class="feature-thumb">
     <div class="feature-content">
       <a href="https://events.stanford.edu/event/slac-on-tap-the-fundamental-universe-looking-for-zebras-and-the-worlds-largest-demolition-derby" target="_blank" class="feature-title">
         SLAC On Tap | The Fundamental Universe, Looking for Zebras, and the World’s Largest Demolition Derby
       </a>
       <span class="feature-desc">
-        (May 2025)
+        May 2025
       </span>
     </div>
   </div>
@@ -28,7 +22,7 @@
         SLAC Public Lecture | Expecting the Unexpected with AI at Particle Colliders
       </a>
       <span class="feature-desc">
-        (December 2024)
+        December 2024
       </span>
     </div>
   </div>
@@ -37,10 +31,10 @@
     <img src="ml_physics.jpg" alt="Talk thumbnail" class="feature-thumb">
     <div class="feature-content">
       <a href="https://atlas.cern/Updates/Feature/Machine-Learning" target="_blank" class="feature-title">
-        "Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector"
+        ATLAS Feature | Learning by machines, for machines: Artificial Intelligence in the world's largest particle detector
       </a>
       <span class="feature-desc">
-        (June 2024)
+        June 2024
       </span>
     </div>
   </div>
@@ -52,7 +46,19 @@
             Caltech Physics Colloquium | Colliders for the Future of High Energy Physics    
       </a>
       <span class="feature-desc">
-        (November 2023)
+        November 2023
+      </span>
+    </div>
+  </div>
+
+  <div class="feature-row">
+    <img src="forbes.png" alt="Talk thumbnail" class="feature-thumb">
+    <div class="feature-content">
+      <a href="https://www.forbes.com/sites/alexknapp/2020/12/01/30-under-30-in-science-2021-building-better-trees-supernova-simulations-and-holograms/" target="_blank" class="feature-title">
+        30 Under 30 In Science 2021: Building Better Trees, Supernova Simulations And Holograms
+      </a>
+      <span class="feature-desc">
+        December 2020
       </span>
     </div>
   </div>
