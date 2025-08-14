@@ -3,7 +3,15 @@
 ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1 January 2025. <br>
 <br>
 <li class="publication">
-  <strong>Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
+  <strong> Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies </strong><br>
+  <em><a href="https://www.mdpi.com/2078-2489/16/8/690" target="_blank">Information 2025, 16(8), 690.<br>
+  <span>
+    Authors: D. Jayeprokash, J. Gonski.<br>
+    Published: 9 Aug 2025.
+  </span>
+</li>
+<li class="publication">
+  <strong>Variational Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
   <em><a href="https://iopscience.iop.org/article/10.1088/2632-2153/adf0c0" target="_blank">Mach. Learn.: Sci. Technol. 6 035017</a></em>, 2025.<br>
   <span>
     Authors: A. Yue, H. Jia, J. Gonski.<br>
