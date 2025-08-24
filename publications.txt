@@ -4,7 +4,7 @@ ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1
 <br>
 <li class="publication">
   <strong> Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies </strong><br>
-  <em><a href="https://www.mdpi.com/2078-2489/16/8/690" target="_blank">Information 2025, 16(8), 690.<br>
+  <em><a href="https://www.mdpi.com/2078-2489/16/8/690" target="_blank">Information 16(8), 690</a></em>, 2025.<br>
   <span>
     Authors: D. Jayeprokash, J. Gonski.<br>
     Published: 9 Aug 2025.
