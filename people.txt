@@ -23,8 +23,22 @@
           </p>
         </div>
         <div class="person">
+          <img src="liangyu.jpg" alt="Liangyu Wu">
+          <strong>Liangyu Wu</strong>
+          <p>
+            PhD student, Stanford University
+          </p>
+        </div>
+        <div class="person">
           <img src="alex.jpg" alt="Alex Yue">
           <strong>Alexander Yue</strong>
+          <p>
+            Undergraduate, Stanford University
+          </p>
+        </div>
+        <div class="person">
+          <img src="deniz.jpg" alt="Deniz Yilmaz">
+          <strong>Deniz Yilmaz</strong>
           <p>
             Undergraduate, Stanford University
           </p>
