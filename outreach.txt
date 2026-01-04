@@ -4,6 +4,18 @@
 <div class="features-table">
 
   <div class="feature-row">
+    <img src="alphaxiv.png" alt="Feature 1" class="feature-thumb">
+    <div class="feature-content">
+      <a href="https://www.youtube.com/watch?v=oMGXnl12dgY" target="_blank" class="feature-title">
+        alphaXiv | Hunting Anomalies with AI
+      </a>
+      <span class="feature-desc">
+        July 2025
+      </span>
+    </div>
+  </div>
+
+  <div class="feature-row">
     <img src="slacontap.png" alt="Feature 1" class="feature-thumb">
     <div class="feature-content">
       <a href="https://events.stanford.edu/event/slac-on-tap-the-fundamental-universe-looking-for-zebras-and-the-worlds-largest-demolition-derby" target="_blank" class="feature-title">

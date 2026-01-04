@@ -1,7 +1,36 @@
 <h2>Publications</h2>
 <ul class="publications">
-ATLAS Collaboration author since June 2017. Co-signed 671 journal papers as of 1 January 2025. <br>
+ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1 January 2026. <br>
 <br>
+<li class="publication">
+  <strong>Melting LHC detectors: a novel search for stopped long-lived particles</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2512.12023" target="_blank">arXiv:2512.12023</a>
+  </em>, 2025.<br>
+  <span>
+    Authors: J. Gonski, P. Graham, S. Rajendran, H. Ramani, S. Wong.<br>
+    Published: 12 Dec 2025.
+  </span>
+</li>
+<li class="publication">
+  <strong>Edge Machine Learning for Feature Extraction in Next-Generation Drift Chambers</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2511.10540" target="_blank">arXiv:2511.10540</a>
+  </em>, 2025.<br>
+  <span>
+    Authors: D. Yilmaz, L. Wu, J. Gonski, D. Rankin, C. Herwig.<br>
+    Accepted to NeurIPS ML4PS Workshop.<br>
+    Published: 13 Nov 2025.
+  </span>
+</li>
+<li class="publication">
+  <strong> Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies </strong><br>
+  <em><a href="https://www.mdpi.com/2078-2489/16/8/690" target="_blank">Information 16(8), 690</a></em>, 2025.<br>
+  <span>
+    Authors: D. Jayeprokash, J. Gonski.<br>
+    Published: 9 Aug 2025.
+  </span>
+</li>
 <li class="publication">
   <strong> Convolutional Autoencoders for Data Compression and Anomaly Detection in Small Satellite Technologies </strong><br>
   <em><a href="https://www.mdpi.com/2078-2489/16/8/690" target="_blank">Information 16(8), 690</a></em>, 2025.<br>
