@@ -9,7 +9,7 @@
           </p>
         </div>
         <div class="person">
-          <img src="unknown" alt="Qibin Liu">
+          <img src="qibin.png" alt="Qibin Liu">
           <strong>Qibin Liu</strong>
           <p>
             Postdoc
