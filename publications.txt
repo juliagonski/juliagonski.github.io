@@ -3,6 +3,16 @@
 ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1 January 2026. <br>
 <br>
 <li class="publication">
+  <strong>Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs </strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2603.13490" target="_blank">arXiv:2603.13490</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: P. Alex May, Q. Liu, J. Gonski, B. Nachman<br>
+    Published: 13 March 2026.
+  </span>
+</li>
+<li class="publication">
   <strong>Machine Learning on Heterogeneous, Edge, and Quantum Hardware for Particle Physics (ML-HEQUPP) </strong><br>
   <em>
     <a href="https://arxiv.org/abs/2602.22248" target="_blank">arXiv:2602.22248</a>
