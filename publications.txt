@@ -3,12 +3,23 @@
 ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1 January 2026. <br>
 <br>
 <li class="publication">
+  <strong>Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders </strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2603.26604" target="_blank">arXiv:2603.26604</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: S. Addepalli, P. Bhattarai, A. Dave, J. Gonski<br>
+    Published: 27 March 2026.
+  </span>
+</li>
+<li class="publication">
   <strong>Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs </strong><br>
   <em>
     <a href="https://arxiv.org/abs/2603.13490" target="_blank">arXiv:2603.13490</a>
   </em>, 2026.<br>
   <span>
     Authors: P. Alex May, Q. Liu, J. Gonski, B. Nachman<br>
+    Submitted to JINST.
     Published: 13 March 2026.
   </span>
 </li>
@@ -30,6 +41,7 @@ ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1
   </em>, 2025.<br>
   <span>
     Authors: J. Gonski, P. Graham, S. Rajendran, H. Ramani, S. Wong.<br>
+    Submitted to Phys. Rev. D.
     Published: 12 Dec 2025.
   </span>
 </li>
