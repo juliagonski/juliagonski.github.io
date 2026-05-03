@@ -2,6 +2,37 @@
 <ul class="publications">
 ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1 January 2026. <br>
 <br>
+
+<li class="publication">
+  <strong>Machine Learning Enables Real-Time Waveform Decomposition for Dual-Readout Calorimetry</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2604.26090" target="_blank">arXiv:2604.26090</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: L. Wu, Q. Liu, M. T. Lucchini, J. Gonski, M. Campajola, S. Moneta<br>
+    Published: 23 April 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Phenomenological Detector Design and Optimization in Vertically-Integrated Differentiable Full Simulations with Agentic-AI</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2604.21804" target="_blank">arXiv:2604.21804</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: W. Chung, Q. Liu, L. Wu, J. Gonski<br>
+    Published: 23 April 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>SciFi: A Safe, Lightweight, User-Friendly, and Fully Autonomous Agentic AI Workflow for Scientific Applications</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2604.13180" target="_blank">arXiv:2604.13180</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: Q. Liu, J. Gonski<br>
+    Published: 14 April 2026.
+  </span>
+</li>
 <li class="publication">
   <strong>Hardware-Aware Tensor Networks for Real-Time Quantum-Inspired Anomaly Detection at Particle Colliders </strong><br>
   <em>
