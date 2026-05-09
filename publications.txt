@@ -10,7 +10,7 @@ ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1
   </em>, 2026.<br>
   <span>
     Authors: L. Wu, Q. Liu, M. T. Lucchini, J. Gonski, M. Campajola, S. Moneta<br>
-    Published: 23 April 2026.
+    Published: 28 April 2026.
   </span>
 </li>
 <li class="publication">
