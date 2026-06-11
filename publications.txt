@@ -46,11 +46,10 @@ ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1
 <li class="publication">
   <strong>Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs </strong><br>
   <em>
-    <a href="https://arxiv.org/abs/2603.13490" target="_blank">arXiv:2603.13490</a>
+    <a href="https://iopscience.iop.org/article/10.1088/1748-0221/21/06/P06015" target="_blank">JINST 21 P06015</a>
   </em>, 2026.<br>
   <span>
     Authors: P. Alex May, Q. Liu, J. Gonski, B. Nachman<br>
-    Submitted to JINST.
     Published: 13 March 2026.
   </span>
 </li>
@@ -151,7 +150,7 @@ ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1
 
 <li class="publication">
   <strong>Embedded FPGA developments in 130 nm and 28 nm CMOS for machine learning in particle detector readout</strong><br>
-  <em><a href="https://iopscience.iop.org/article/10.1088/1748-0221/19/08/P08023" target="_blank">Journal of Instrumentation 19 P08023</a></em>, 2024.<br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/1748-0221/19/08/P08023" target="_blank">JINST 19 P08023</a></em>, 2024.<br>
   <span>
     Authors: J. Gonski et al.<br>
     Published: 28 August 2024.
