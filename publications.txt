@@ -1,8 +1,19 @@
 <h2>Publications</h2>
 <ul class="publications">
-ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1 January 2026. <br>
+ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026. <br>
 <br>
 
+<li class="publication">
+  <strong>Transformer-based machine learning using low-level calorimeter signals for collimated photon identification at collider experiments</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2607.08175" target="_blank">arXiv:2607.08175</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: G. Matos, L. Larson, A. Dave, M. Bressan, A. Amer, C. Liu, N. Nikiforou, J. Long, T. Andeen, J. Parsons, J. Gonski<br>
+    Submitted to JHEP.
+    Published: 10 July 2026.
+  </span>
+</li>
 <li class="publication">
   <strong>Machine Learning Enables Real-Time Waveform Decomposition for Dual-Readout Calorimetry</strong><br>
   <em>
@@ -20,6 +31,7 @@ ATLAS Collaboration author since June 2017. Co-signed 716 journal papers as of 1
   </em>, 2026.<br>
   <span>
     Authors: W. Chung, Q. Liu, L. Wu, J. Gonski<br>
+    Accepted to Stanford Physics \& AI Conference 2026.<br>
     Published: 23 April 2026.
   </span>
 </li>
