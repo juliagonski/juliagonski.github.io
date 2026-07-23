@@ -2,7 +2,28 @@
 <ul class="publications">
 ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026. <br>
 <br>
-
+<li class="publication">
+  <strong>Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2607.20302" target="_blank">arXiv:2607.20302</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: I. Ge, S. Addepalli, A. Dave, J. Gonski<br>
+    Submitted to Discover Quantum Science.
+    Published: 22 July 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Towards anomaly detection searches for new physics signatures including Higgs bosons with weakly supervised machine learning</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2607.19323" target="_blank">arXiv:2607.19323</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: C. Cheng et al<br>
+    Submitted to JHEP.
+    Published: 21 July 2026.
+  </span>
+</li>
 <li class="publication">
   <strong>Transformer-based machine learning using low-level calorimeter signals for collimated photon identification at collider experiments</strong><br>
   <em>
@@ -52,6 +73,7 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
   </em>, 2026.<br>
   <span>
     Authors: S. Addepalli, P. Bhattarai, A. Dave, J. Gonski<br>
+    Under review at Nature Communications
     Published: 27 March 2026.
   </span>
 </li>
