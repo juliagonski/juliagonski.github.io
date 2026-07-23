@@ -9,7 +9,7 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
   </em>, 2026.<br>
   <span>
     Authors: I. Ge, S. Addepalli, A. Dave, J. Gonski<br>
-    Submitted to Discover Quantum Science.
+    Submitted to Discover Quantum Science.<br>
     Published: 22 July 2026.
   </span>
 </li>
@@ -20,7 +20,7 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
   </em>, 2026.<br>
   <span>
     Authors: C. Cheng et al<br>
-    Submitted to JHEP.
+    Submitted to JHEP.<br>
     Published: 21 July 2026.
   </span>
 </li>
@@ -31,7 +31,7 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
   </em>, 2026.<br>
   <span>
     Authors: G. Matos, L. Larson, A. Dave, M. Bressan, A. Amer, C. Liu, N. Nikiforou, J. Long, T. Andeen, J. Parsons, J. Gonski<br>
-    Submitted to JHEP.
+    Submitted to JHEP.<br>
     Published: 10 July 2026.
   </span>
 </li>
@@ -52,7 +52,7 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
   </em>, 2026.<br>
   <span>
     Authors: W. Chung, Q. Liu, L. Wu, J. Gonski<br>
-    Accepted to Stanford Physics \& AI Conference 2026.<br>
+    Accepted to Stanford Physics & AI Conference 2026.<br>
     Published: 23 April 2026.
   </span>
 </li>
