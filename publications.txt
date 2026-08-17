@@ -3,6 +3,26 @@
 ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026. <br>
 <br>
 <li class="publication">
+  <strong>Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2608.13652" target="_blank">arXiv:2608.13652</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: H. Jia, S. Addepalli, J. Gonski<br>
+    Published: 13 August 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>A Lightweight Foundation Model for Collider Physics with Multi-Domain Adaptation</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2607.27501" target="_blank">arXiv:2607.27501</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: L. Wu, Q. Liu, A. Yue, J. Gonski<br>
+    Published: 29 July 2026.
+  </span>
+</li>
+<li class="publication">
   <strong>Classical Hardware Acceleration of Quantum Autoencoders for Real-Time Anomaly Detection in Collider Experiments</strong><br>
   <em>
     <a href="https://arxiv.org/abs/2607.20302" target="_blank">arXiv:2607.20302</a>
