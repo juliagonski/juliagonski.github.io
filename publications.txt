@@ -3,6 +3,17 @@
 ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026. <br>
 <br>
 <li class="publication">
+  <strong>Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2609.23385" target="_blank">arXiv:2609.23385</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: G. Ancone, Q. Liu, L. Wu, J. Gonski<br>
+    Submitted to the Machine Learning for Physical Sciences workshop. 
+    Published: 20 September 2026.
+  </span>
+</li>
+<li class="publication">
   <strong>Contrastive Learning for Interpretable Anomaly Detection at Collider Experiments</strong><br>
   <em>
     <a href="https://arxiv.org/abs/2608.13652" target="_blank">arXiv:2608.13652</a>
