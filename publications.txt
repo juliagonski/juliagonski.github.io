@@ -131,12 +131,11 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
 <li class="publication">
   <strong>Machine Learning on Heterogeneous, Edge, and Quantum Hardware for Particle Physics (ML-HEQUPP) </strong><br>
   <em>
-    <a href="https://arxiv.org/abs/2602.22248" target="_blank">arXiv:2602.22248</a>
+    <a href="https://journals.aps.org/prxintelligence/abstract/10.1103/bjx3-vlj8" target="_blank">PRX Intelligence 1, 021201</a>
   </em>, 2026.<br>
   <span>
     Authors: J. Gonski, et al<br>
-    Submitted to PRX Intelligence.
-    Published: 24 Feb 2026.
+    Published: 13 October 2026.
   </span>
 </li>
 <li class="publication">
