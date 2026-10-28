@@ -3,6 +3,18 @@
 ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026. <br>
 <br>
 <li class="publication">
+  <strong>Melting LHC detectors: A novel search for stopped long-lived particles</strong><br>
+  <em>
+    <a href="https://journals.aps.org/prd/abstract/10.1103/1x1q-mncc" target="_blank">
+      Phys. Rev. D 114, 075036
+    </a>
+  </em><br>
+  <span>
+    Authors: J. Gonski, P. Graham, S. Rajendran, H. Ramani, and S. Wong<br>
+    Published: 27 October 2026.
+  </span>
+</li>
+<li class="publication">
   <strong>Towards Foundation Models on Hardware Accelerators for Particle Physics</strong><br>
   <em>
     <a href="https://arxiv.org/abs/2609.26899" target="_blank">arXiv:2609.26899</a>
@@ -136,17 +148,6 @@ ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8
   <span>
     Authors: J. Gonski, et al<br>
     Published: 13 October 2026.
-  </span>
-</li>
-<li class="publication">
-  <strong>Melting LHC detectors: a novel search for stopped long-lived particles</strong><br>
-  <em>
-    <a href="https://arxiv.org/abs/2512.12023" target="_blank">arXiv:2512.12023</a>
-  </em>, 2025.<br>
-  <span>
-    Authors: J. Gonski, P. Graham, S. Rajendran, H. Ramani, S. Wong.<br>
-    Submitted to Phys. Rev. D.
-    Published: 12 Dec 2025.
   </span>
 </li>
 <li class="publication">
