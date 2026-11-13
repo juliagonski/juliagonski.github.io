@@ -3,6 +3,18 @@
 ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026. <br>
 <br>
 <li class="publication">
+  <strong>Reward-Driven Collider Physics Challenges for Self-Improving Agentic AI via Reinforcement Learning</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2611.15885" target="_blank">
+      arXiv:2611.15885
+    </a>
+  </em><br>
+  <span>
+    Authors: A. Yue, Q. Liu, J. Gonski<br>
+    Published: 13 Nov 026.
+  </span>
+</li>
+<li class="publication">
   <strong>Melting LHC detectors: A novel search for stopped long-lived particles</strong><br>
   <em>
     <a href="https://journals.aps.org/prd/abstract/10.1103/1x1q-mncc" target="_blank">
