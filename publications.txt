@@ -114,6 +114,98 @@
 </li>
 </ul>
 
+<h3>Edge/real-time AI/ML</h3>
+<ul class="publications">
+<li class="publication">
+  <strong>Machine Learning on Heterogeneous, Edge, and Quantum Hardware for Particle Physics (ML-HEQUPP) </strong><br>
+  <em>
+    <a href="https://journals.aps.org/prxintelligence/abstract/10.1103/bjx3-vlj8" target="_blank">PRX Intelligence 1, 021201</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: J. Gonski, et al<br>
+    Published: 13 October 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Towards Foundation Models on Hardware Accelerators for Particle Physics</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2609.26899" target="_blank">arXiv:2609.26899</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: M. Benyas, J. Gonski, Q. Liu, P. Alex May, V. Mikuni, B. Nachman, T. Wamorkar, L. Wu<br>
+    Accepted to the Machine Learning for Physical Sciences workshop.<br>
+    Published: 22 September 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2609.23385" target="_blank">arXiv:2609.23385</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: G. Ancone, Q. Liu, L. Wu, J. Gonski<br>
+    Accepted to the Machine Learning for Physical Sciences workshop.<br>
+    Published: 20 September 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Machine Learning Enables Real-Time Waveform Decomposition for Dual-Readout Calorimetry</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2604.26090" target="_blank">arXiv:2604.26090</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: L. Wu, Q. Liu, M. T. Lucchini, J. Gonski, M. Campajola, S. Moneta<br>
+    Submitted to The European Physical Journal C.<br>
+    Published: 28 April 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs </strong><br>
+  <em>
+    <a href="https://iopscience.iop.org/article/10.1088/1748-0221/21/06/P06015" target="_blank">JINST 21 P06015</a>
+  </em>, 2026.<br>
+  <span>
+    Authors: P. Alex May, Q. Liu, J. Gonski, B. Nachman<br>
+    Published: 13 March 2026.
+  </span>
+</li>
+<li class="publication">
+  <strong>Edge Machine Learning for Feature Extraction in Next-Generation Drift Chambers</strong><br>
+  <em>
+    <a href="https://arxiv.org/abs/2511.10540" target="_blank">arXiv:2511.10540</a>
+  </em>, 2025.<br>
+  <span>
+    Authors: D. Yilmaz, L. Wu, J. Gonski, D. Rankin, C. Herwig.<br>
+    Accepted to NeurIPS ML4PS Workshop.<br>
+    Published: 13 Nov 2025.
+  </span>
+</li>
+<li class="publication">
+  <strong>Variational Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/2632-2153/adf0c0" target="_blank">Mach. Learn.: Sci. Technol. 6 035017</a></em>, 2025.<br>
+  <span>
+    Authors: A. Yue, H. Jia, J. Gonski.<br>
+    Published: 29 July 2025.
+  </span>
+</li>
+<li class="publication">
+  <strong>Analysis of Hardware Synthesis Strategies for Machine Learning in Collider Trigger and Data Acquisition</strong><br>
+  <em>arXiv: <a href="https://arxiv.org/abs/2411.11678" target="_blank">2411.11678</a></em>, 2024.<br>
+  <span>
+    Authors: H. Jia, A. Dave, J. Gonski, R. Herbst.<br>
+    Published: 18 Nov 2024.
+  </span>
+</li>
+<li class="publication">
+  <strong>Embedded FPGA developments in 130 nm and 28 nm CMOS for machine learning in particle detector readout</strong><br>
+  <em><a href="https://iopscience.iop.org/article/10.1088/1748-0221/19/08/P08023" target="_blank">JINST 19 P08023</a></em>, 2024.<br>
+  <span>
+    Authors: J. Gonski et al.<br>
+    Published: 28 August 2024.
+  </span>
+</li>
+</ul>
+
 <h3>AI/ML methods</h3>
 <ul class="publications">
 <li class="publication">
@@ -200,104 +292,6 @@
 </li>
 </ul>
 
-<h3>Edge ML, real-time inference &amp; detector electronics</h3>
-<ul class="publications">
-<li class="publication">
-  <strong>Machine Learning on Heterogeneous, Edge, and Quantum Hardware for Particle Physics (ML-HEQUPP) </strong><br>
-  <em>
-    <a href="https://journals.aps.org/prxintelligence/abstract/10.1103/bjx3-vlj8" target="_blank">PRX Intelligence 1, 021201</a>
-  </em>, 2026.<br>
-  <span>
-    Authors: J. Gonski, et al<br>
-    Published: 13 October 2026.
-  </span>
-</li>
-<li class="publication">
-  <strong>Towards Foundation Models on Hardware Accelerators for Particle Physics</strong><br>
-  <em>
-    <a href="https://arxiv.org/abs/2609.26899" target="_blank">arXiv:2609.26899</a>
-  </em>, 2026.<br>
-  <span>
-    Authors: M. Benyas, J. Gonski, Q. Liu, P. Alex May, V. Mikuni, B. Nachman, T. Wamorkar, L. Wu<br>
-    Published: 22 September 2026.
-  </span>
-</li>
-<li class="publication">
-  <strong>Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design</strong><br>
-  <em>
-    <a href="https://arxiv.org/abs/2609.23385" target="_blank">arXiv:2609.23385</a>
-  </em>, 2026.<br>
-  <span>
-    Authors: G. Ancone, Q. Liu, L. Wu, J. Gonski<br>
-    Submitted to the Machine Learning for Physical Sciences workshop. <br>
-    Published: 20 September 2026.
-  </span>
-</li>
-<li class="publication">
-  <strong>Machine Learning Enables Real-Time Waveform Decomposition for Dual-Readout Calorimetry</strong><br>
-  <em>
-    <a href="https://arxiv.org/abs/2604.26090" target="_blank">arXiv:2604.26090</a>
-  </em>, 2026.<br>
-  <span>
-    Authors: L. Wu, Q. Liu, M. T. Lucchini, J. Gonski, M. Campajola, S. Moneta<br>
-    Published: 28 April 2026.
-  </span>
-</li>
-<li class="publication">
-  <strong>Ultra Fast Calorimeter Simulation with Generative Machine Learning on FPGAs </strong><br>
-  <em>
-    <a href="https://iopscience.iop.org/article/10.1088/1748-0221/21/06/P06015" target="_blank">JINST 21 P06015</a>
-  </em>, 2026.<br>
-  <span>
-    Authors: P. Alex May, Q. Liu, J. Gonski, B. Nachman<br>
-    Published: 13 March 2026.
-  </span>
-</li>
-<li class="publication">
-  <strong>Edge Machine Learning for Feature Extraction in Next-Generation Drift Chambers</strong><br>
-  <em>
-    <a href="https://arxiv.org/abs/2511.10540" target="_blank">arXiv:2511.10540</a>
-  </em>, 2025.<br>
-  <span>
-    Authors: D. Yilmaz, L. Wu, J. Gonski, D. Rankin, C. Herwig.<br>
-    Accepted to NeurIPS ML4PS Workshop.<br>
-    Published: 13 Nov 2025.
-  </span>
-</li>
-<li class="publication">
-  <strong>Variational Autoencoders for At-Source Data Reduction and Anomaly Detection in High Energy Particle Detectors</strong><br>
-  <em><a href="https://iopscience.iop.org/article/10.1088/2632-2153/adf0c0" target="_blank">Mach. Learn.: Sci. Technol. 6 035017</a></em>, 2025.<br>
-  <span>
-    Authors: A. Yue, H. Jia, J. Gonski.<br>
-    Published: 29 July 2025.
-  </span>
-</li>
-<li class="publication">
-  <strong>Analysis of Hardware Synthesis Strategies for Machine Learning in Collider Trigger and Data Acquisition</strong><br>
-  <em>arXiv: <a href="https://arxiv.org/abs/2411.11678" target="_blank">2411.11678</a></em>, 2024.<br>
-  <span>
-    Authors: H. Jia, A. Dave, J. Gonski, R. Herbst.<br>
-    Published: 18 Nov 2024.
-  </span>
-</li>
-<li class="publication">
-  <strong>Embedded FPGA developments in 130 nm and 28 nm CMOS for machine learning in particle detector readout</strong><br>
-  <em><a href="https://iopscience.iop.org/article/10.1088/1748-0221/19/08/P08023" target="_blank">JINST 19 P08023</a></em>, 2024.<br>
-  <span>
-    Authors: J. Gonski et al.<br>
-    Published: 28 August 2024.
-  </span>
-</li>
-<li class="publication">
-  <strong>Development of the ATLAS Liquid Argon Calorimeter Readout Electronics and Machine Learning for the HL-LHC (CALOR2022 conference proceedings)</strong><br>
-  <em><a href="https://www.mdpi.com/2410-390X/6/3/28" target="_blank">MDPI Instruments 2022, 6(3), 28 (selected as issue cover)</a></em>, 2022.<br>
-  <span>
-    Authors: J. Gonski.<br>
-    Published: 26 August 2022.
-  </span>
-</li>
-</ul>
-
 <h3>Quantum &amp; quantum-inspired methods</h3>
 <ul class="publications">
 <li class="publication">
@@ -324,7 +318,7 @@
 </li>
 </ul>
 
-<h3>Instrumentation, detector R&amp;D &amp; community strategy</h3>
+<h3>Instrumentation and detectors</h3>
 <ul class="publications">
 <li class="publication">
   <strong>A Radiation-Hard 8-Channel 15-bit 40-MSPS ADC for the ATLAS Liquid Argon Calorimeter Readout</strong><br>
@@ -348,6 +342,14 @@
   <span>
     Authors: J. Butler, J. Gonski et al.<br>
     Published: 16 Jan 2023.
+  </span>
+</li>
+<li class="publication">
+  <strong>Development of the ATLAS Liquid Argon Calorimeter Readout Electronics and Machine Learning for the HL-LHC (CALOR2022 conference proceedings)</strong><br>
+  <em><a href="https://www.mdpi.com/2410-390X/6/3/28" target="_blank">MDPI Instruments 2022, 6(3), 28 (selected as issue cover)</a></em>, 2022.<br>
+  <span>
+    Authors: J. Gonski.<br>
+    Published: 26 August 2022.
   </span>
 </li>
 <li class="publication">
