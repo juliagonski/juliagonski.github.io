@@ -1,5 +1,6 @@
-<h2>Publications</h2>
-<p class="publications-intro">ATLAS Collaboration author since June 2017. Co-signed 747 journal papers as of 8 July 2026.</p>
+<h2>Selected Publications and Preprints</h2>
+<p class="publications-intro">ATLAS Collaboration author since June 2017. Co-signed 790 journal papers as of 17 November 2026.</p>
+<p class="publications-intro">ORCID: 0000-0003-2037-6315</p>
 
 <h3>ATLAS searches</h3>
 <ul class="publications">
